@@ -13,6 +13,7 @@ import java.util.List;
 @Controller
 public class MemberController {
 
+
     private final MemberService memberService;
 
     @Autowired
